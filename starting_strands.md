@@ -23,8 +23,8 @@ TdT extension and ExoT cutback will be tested on both the original and the modif
 -   100 uM (*CHECK THIS CONC) “BS_Comp_6” Complementary Oligo (Sequence:  5’-AACGCA-3’)
 -   100 uM (*CHECK THIS CONC) "BS_Comp_5" Complementary Oligo (Sequence: 5'-ACGCA-3')
 -   100 uM "BS_Start_Modified" Oligonucleotide  (Sequence: 5'-AGTTACCATGACATTGTGC-3')
--   500 uM "BS_Start_Modified_Comp1" Complementary Oligo (Sequence: 5'-AAGCAC)
--   500 uM "BS_Start_Modified_Comp2" Complementary Oligo (Sequence: 5'-AGCAC)
+-   100 uM "BS_Start_Modified_Comp1" Complementary Oligo (Sequence: 5'-AAGCAC)
+-   100 uM "BS_Start_Modified_Comp2" Complementary Oligo (Sequence: 5'-AGCAC)
 -   10/60 Ladder 
 -   Terminal Deoxynucleotidyl Transferase (20 U/uL)
 -   Exonuclease T (5 U/uL)
@@ -67,12 +67,8 @@ Pipette 4 uL of 10 mM 'dTTP dilute' into tubes 1 - 6.
 Place the 4 tubes in the thermocycler.
 Immediately before starting the protocol, add .4 uL of 20 U/uL TdT to all tubes.
 Start the thermocycler protocol and wait until the protocol is completed.
-Transfer 10 uL from tubes 1 and 3 into a corresponding 
-
-`Extension Control' tube for original and modified starting strands. 
-Add 10 uL of EDTA to column 12 after all other wells have been inactivated/after inactivation of the shortest time reaction. 
-**Note:** 1:11
-
+Transfer 10 uL from tubes 1 and 3 into a correspondinge extension control tubes for original and modified starting strands. 
+Boil at 90 C to 
 ## Complementary DNA Binding 
 
 NOTE: It is critical that the entirety of the Exonuclease T reaction takes place at the appro-priate temperature.  
@@ -88,8 +84,10 @@ All addition of Exonuclease T must occur while the sample is inside thethermocyc
 
 ## Exoncuclease T Cleavage
 
-1.  While the validation test samples are held in the thermocycler at the appropriate temperature, add1.6μL of Exonuclease T to each sample.
-2.  After one hour of Exonuclease T incubation, rapidly transfer the four tubes to thermocycler 2.  Allowto heat inactivate for at least ten minutes.  Avoid touching the inside of the thermocycler.
+1. While the validation test samples are held in the thermocycler at the appropriate temperature, add1.6μL of Exonuclease T to each sample.
+2. After one hour of Exonuclease T incubation, rapidly transfer the four tubes to thermocycler 2.  Allow to heat inactivate for at least ten minutes.  Avoid touching the inside of the thermocycler.
+3. Add EDTA to inactivate ExoT. 
+
 
 ## Gel Running
 
