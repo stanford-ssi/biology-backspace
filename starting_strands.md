@@ -15,7 +15,7 @@ In order to conduct DNA synthesis using water-soluble and non-toxic materials, a
 3. Introducing Exonuclease T, which will cleave the 3' region of the elongated starting strand, effectively cleaving excess nucleotides that are not to be added. (zuo_deutscher_1999)
 This experiment is intended to implement each of the steps of the 'backspace' technique, resulting in the addition of a single nucleotide to a pre-determined ssDNA strand. The protocol builds on previous experiments undertaken using TdT and Exonuclease T. 
 
-TdT extension and ExoT cutback will be tested on both the original and the modified starting strands, each 
+TdT extension and ExoT cutback will be tested on both the original and the modified starting strands, each with 2 different complementary strands (of 5 adn 6 bp lengths). 
 
 ## Materials
 
@@ -38,8 +38,7 @@ TdT extension and ExoT cutback will be tested on both the original and the modif
 ## Dilutions FIX DILUTIONS
 1. Dilute 1 uL of BSStart (100uM, 6133Da) in 29.2 uL of nuclease-free water for 6.4 uM solution . Vortex well. Do the same for BS_Start_Modified. Store separately. 
 2. Dilute 50uL 100mM dTTP Stock in 4950 uL water for 5000uL of 1mM working stock. Vortex well.
-4. Dilute 4.32 uL of 90-mer (AGTATT ... TAGACGTT, 100uM, 27786Da), 13.04 uL of 15Mer (ATGGACATGGACTAC, 100uM, 4601Da) and 12.56 uL of BS_Comp_8 (AACGCACA, 100uM, 2388Da) into 3970.08 uL Nuclease-Free water in a 15 mL tube. Vortex well before use. This is the DNA Control Solution, which is 3 ng/uL 90mer, 1.5 ng/uL 15mer, and .75 ng/uL BS_Comp_8 working stock. This will result in 1.0ng/uL, 0.5ng/uL and 0.25ng/uL final concentrations of 90nt, 15nt and 8nt control stands in samples sent to PAN.
-5. Dilute 7.82 uL of BS_Start_Mod1_Comp1 in 992.18 uL of nuclease-free water for 1 mL of 3.91 uM working stock.
+3. Dilute 7.82 uL of BS_Start_Mod1_Comp1 in 992.18 uL of nuclease-free water for 1 mL of 3.91 uM working stock.
 
 Samples
 =========
@@ -68,7 +67,8 @@ Place the 4 tubes in the thermocycler.
 Immediately before starting the protocol, add .4 uL of 20 U/uL TdT to all tubes.
 Start the thermocycler protocol and wait until the protocol is completed.
 Transfer 10 uL from tubes 1 and 3 into a correspondinge extension control tubes for original and modified starting strands. 
-Boil at 90 C to 
+Boil at 90 C to deactivate TdT before comp strand binding step. 
+
 ## Complementary DNA Binding 
 
 NOTE: It is critical that the entirety of the Exonuclease T reaction takes place at the appro-priate temperature.  
