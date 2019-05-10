@@ -1,6 +1,5 @@
 # Different Starting Strands Experiment
-Written by *Harshu Musunuri*
-*Written:* "5/10/19 *Performed:* TBD
+Written by Harshu Musunuri, 5/10/19, *Performed:* TBD
 
 Procedure Purpose
 =================
