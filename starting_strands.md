@@ -8,14 +8,14 @@ Test backspace method on different starting strands from BS_Start to characteriz
 
 Overview
 ========
-In order to conduct DNA synthesis using water-soluble and non-toxic materials, a method using a pair of enzymes to extend and shorten a pre-existing template strand has been devised and termed the 'backspace' method. This technique involves three steps: TEST
+In order to conduct DNA synthesis using water-soluble and non-toxic materials, a method using a pair of enzymes to extend and shorten a pre-existing template strand has been devised and termed the 'backspace' method. This technique involves three steps:
 
 1. Elongating an existing single-stranded DNA strand with an arbitrary length of one nucleotide of choice using Terminal Deoxynucleotidyl Transferase (TdT).
 2. Adding a complementary strand that matches the 3' end of the original starting sequence, as well as one or two of the added nucleotides.
 3. Introducing Exonuclease T, which will cleave the 3' region of the elongated starting strand, effectively cleaving excess nucleotides that are not to be added. (zuo_deutscher_1999)
 This experiment is intended to implement each of the steps of the 'backspace' technique, resulting in the addition of a single nucleotide to a pre-determined ssDNA strand. The protocol builds on previous experiments undertaken using TdT and Exonuclease T.
 
-TdT extension and ExoT cutback will be tested on both the original and the modified starting strands, each with 2 different complementary strands (of 5 adn 6 bp lengths).
+TdT extension and ExoT cutback will be tested on both the original and the modified starting strands, each with 2 different complementary strands (of 5 and 6 bp lengths).
 
 ## Materials
 
