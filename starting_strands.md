@@ -36,9 +36,9 @@ TdT extension and ExoT cutback will be tested on both the original and the modif
 -   RNAse Free Water
 
 ## Dilutions
-1. Dilute 3.2 uL of BSStart (100uM, 6133Da) in 46.8 uL of nuclease-free water for 50 uL of a 6.4 uM solution. Vortex well. Do the same for BS_Start_Modified. Store separately. 
-2. Dilute 3 uL of 100 uM dTTP in 27 uL of nuclease free water for a 10 mM working stock. 
-3. Dilute 0.96 uL of 100 uM BS_Comp_6 in 14.04 uL of nuclease free water for a 6.4 uM working stock. Repeat for BS_Comp_5, BS_Start_Mod_Comp6, and BS_Start_Mod_Comp5. 
+1. Dilute 1.92 uL of BSStart (100uM, 6133Da) in 28.08 uL of nuclease-free water for 30 uL of a 6.4 uM solution. Vortex well. Do the same for BS_Start_Modified. Store separately. 
+2. Dilute 3 uL of 100 uM dTTP in 27 uL of nuclease free water for 30 uL of a 10 mM working stock. 
+3. Dilute 0.96 uL of 100 uM BS_Comp_6 in 14.04 uL of nuclease free water for 15 uL of a 6.4 uM working stock. Repeat for BS_Comp_5, BS_Start_Mod_Comp6, and BS_Start_Mod_Comp5. 
 
 Samples
 =========
