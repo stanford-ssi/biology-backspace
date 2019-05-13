@@ -34,6 +34,7 @@ TdT extension and ExoT cutback will be tested on both the original and the modif
 -   TBE Buffer (0.5X) 
 -   CoCl2 (10x)
 -   RNAse Free Water
+-   500 mM EDTA
 
 ## Dilutions
 1. Dilute 1.92 uL of BSStart (100uM, 6133Da) in 28.08 uL of nuclease-free water for 30 uL of a 6.4 uM solution. Vortex well. Do the same for BS_Start_Modified. Store separately. 
@@ -67,10 +68,9 @@ Procedure
 3. Add 12 uL of ~40 ng/uL 'BS_Start' into PCR tube 1, and 12 uL of 'BS_Start_modified" into PCR tube 2.  
 4. Pipette 12 uL of 10 mM 'dTTP dilute' into both tubes, and place in thermocycler. 
 5. Immediately before starting the protocol, add 1.2 uL of 20 U/uL TdT to both tubes. 
-6. Start the thermocycler protocol and wait until the protocol is completed.
-7. Boil both tubes at 90 C to deactivate TdT before comp strand binding step (unless this is already included in the thermocycler step). 
-8. Transfer 20 uL from tube 1, into tube labeled "Original Extension Control", and another 20 uL into a tube labeled "Original Comp5". The remaining will be used for "Original Comp6". 
-9. Transfer 20 uL from tube 2, into tube labeled "Mod Extension Control", and another 20 uL into a tube labeled "Mod Comp5". The remaining will be used for "Mod Comp6". 
+6. Boil both tubes at 90 C to deactivate TdT before comp strand binding step in thermocycler. 
+7. Transfer 20 uL from tube 1, into tube labeled "Original Extension Control", and another 20 uL into a tube labeled "Original Comp5". The remaining will be used for "Original Comp6". 
+8. Transfer 20 uL from tube 2, into tube labeled "Mod Extension Control", and another 20 uL into a tube labeled "Mod Comp5". The remaining will be used for "Mod Comp6". 
 
 ## Complementary DNA Binding 
 
@@ -82,22 +82,23 @@ All addition of Exonuclease T must occur while the sample is inside thethermocyc
 3.  Add 6μL of dilute 'BS_Start_Mod1_Comp5' to tube 9. 
 4.  Add 6μL of dilute 'BS_Start_Mod1_Comp6' to tube 10. 
 5.  Add 1μL TdT buffer and 1.4μL of water to each of the 4 tubes and mix thoroughly.
-6.  Set one thermocycler, Thermocycler 1, to hold at 94◦C for two minutes, then lower the temperatureto 0◦C forever.  Place all sample tubes into Thermocycler 1 and start the protocol.
+6.  Set one thermocycler, Thermocycler 1, to hold at 94◦C for two minutes, then lower the temperatureto 0◦C forever (decreasing at 0.5◦C per second). Place all sample tubes into Thermocycler 1 and start the protocol.
 7.  Set another thermocycler, Thermocycler 2, to hold at 94◦C forever and start the protocol.
 8.  Keep the tubes in the thermocycler for the remainder of the experiment.
 
 ## Exoncuclease T Cleavage
 
 1. While the validation test samples are held in the thermocycler at the appropriate temperature, add 1.6μL of Exonuclease T to each sample.
-2. After one hour of Exonuclease T incubation, rapidly transfer the four tubes to thermocycler 
+2. After one hour of Exonuclease T incubation, rapidly transfer the four tubes to thermocycler.
 3. Allow to heat inactivate for at least ten minutes. Avoid touching the inside of the thermocycler.
+4. Add 5 uL of 500 mM EDTA to each well. 
 
 ## Gel Setup 
 
 1.  Remove two 20% polyacrylamide gels from pouches and rinse with deionized water.
 2.  Peel off tape on bottom of 20% polyacrylamide gels and remove combs.
 3.  Lower  the  Buffer  Core  (the  piece  that  holds  the  gels)  into  the  Lower  Buffer  Chamber  so  that  thenegative electrode fits into the opening in the gold plate.
-4.  Insert the Gel Tension Wedge into the XCell Surelock behind the buffer core.  Make sure it is in its‘unlocked’ position, which allows the wedge to slip into the unit.
+4.  Insert the Gel Tension Wedge into the XCell Surelock behind the buffer core. Make sure it is in its‘unlocked’ position, which allows the wedge to slip into the unit.
 5.  Insert gel cassettes into the lower buffer chamber.  The shorter “well” side of the cassette faces intothe buffer core.  The slot on the back must face outward.  If only one gel is being run, insert a bufferdam in the place of a gel cassette.
 6.  Pull forward on the Gel Tension Lever toward the buffer core until the gel cassettes are snug againstthe buffer core.  This puts it in the ’locked’ position.
 7.  Fill the Upper Buffer Chamber (between the gels) with running buffer.  Ensure it is not leaking.
@@ -109,7 +110,7 @@ All addition of Exonuclease T must occur while the sample is inside thethermocyc
 
 1.  Obtain small gel running tubes. Pipette  5μL  of  2x  Gel  Loading  Buffer  II  into each well of two rows of these tubes. 
 2.  For  the  ladder  well,  load  4μL  of  .5X  TBE  Buffer  into  the  already  present  5μL  Loading  Buffer  II droplets.  Load 1μL of 10/60 Ladder, and mix well by pipetting upand down.
-3.  For the remaining gel wells, load 5μL of the appropriate extension or test sample into the 5μL droplet of Gel Loading Buffer II (since this already contains 18 mM EDTA, extra is not being added to deactivate ExoT), mix well, and then load 5μL of the mixture directlyinto the appropriate gel well. This should result in approximately 30 ng/lane on a gel (depending on the sample) which is within the target of 20-40 ng per lane.
-4.  Run the gels at 150 V until the dark blue dye is three quarters of the way to the bottom of the gel.  If the dark blue dye is not visible, run the gel for three hours (CHECK THIS TIME). 
+3.  For the remaining gel wells, load 5μL of the appropriate extension or test sample into the 5μL droplet of Gel Loading Buffer II (contains 18 mM EDTA), mix well, and then load 5μL of the mixture directlyinto the appropriate gel well. This should result in approximately 30 ng/lane on a gel (depending on the sample) which is within the target of 20-40 ng per lane.
+4.  Run the gels at 150 V until the dark blue dye is three quarters of the way to the bottom of the gel.  If the dark blue dye is not visible, run the gel for three hours.
 5. While the gel runs, prepare 1X SYBR Gold Staining Solution with TBE as dilute.
 6.  Once gel has finished running, submerge gel in SYBR Gold solution for 20 minutes.
