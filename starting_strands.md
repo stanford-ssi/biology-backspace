@@ -115,6 +115,6 @@ All addition of Exonuclease T must occur while the sample is inside thethermocyc
 5. While the gel runs, prepare 1X SYBR Gold Staining Solution with TBE as dilute.
 6.  Once gel has finished running, submerge gel in SYBR Gold solution for 20 minutes.
 
-## Updates during Running
+## Experimental Updates
 - First set of samples rendered unusable due to addition of ExoT prior to annealing thermocyler protocol for comp. strand binding, and tubes melting within thermocycler
 - Second set of replicates made with separate TdT extended samples (procedure basically repeated)
