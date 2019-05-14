@@ -30,7 +30,7 @@ TdT extension and ExoT cutback will be tested on both the original and the modif
 -   Terminal Deoxynucleotidyl Transferase (20 U/uL)
 -   Exonuclease T (5 U/uL)
 -   dTTP (100 mM)
--   NEB TdT Buffer (10X)
+-   NEB TdT Buffer (5X)
 -   TBE Buffer (0.5X) 
 -   CoCl2 (10x)
 -   RNAse Free Water
@@ -114,3 +114,7 @@ All addition of Exonuclease T must occur while the sample is inside thethermocyc
 4.  Run the gels at 150 V until the dark blue dye is three quarters of the way to the bottom of the gel.  If the dark blue dye is not visible, run the gel for three hours.
 5. While the gel runs, prepare 1X SYBR Gold Staining Solution with TBE as dilute.
 6.  Once gel has finished running, submerge gel in SYBR Gold solution for 20 minutes.
+
+## Updates during Running
+- First set of samples rendered unusable due to addition of ExoT prior to annealing thermocyler protocol for comp. strand binding, and tubes melting within thermocycler
+- Second set of replicates made with separate TdT extended samples (procedure basically repeated)
