@@ -11,6 +11,8 @@ Since we postulated that secondary structures forming with the starting strand a
 This experiment takes advantage of the fact that terminal transferase has been shown to have poor rates of extension on "native" or double stranded DNA, but speeds up considerably (by an order of magnitude) when exposed to "primer DNA" that is single stranded. 
 For this reason, we will be exposing the starting strand by itself, the starting strand with its 2 comp strand variants, as well as the modified strands with its 2 comp strand variants to TdT for a minute, and then observe any differences in product lenghts to draw conclusions about how well the primers were bound.
 
+*1 bp overhang shouldn't be an issue because single stranded region needs to be atleast a 5-6 bp long in order for TdT to start attach and function. 
+
 ## Materials
 
 -   100 uM "BS_Start" Oligonucleotide- Original (Sequence: 5'-AGTTACCATGACCGTGTGCG-3')
@@ -46,19 +48,17 @@ Number of sample corresponds to the lane in which it will be placed in the gel:
 Procedure
 =========
 ## Complementary DNA Binding 
-1. Add 6 uL of ~40 ng/uL 'BS_Start' into tubes 2, 3, 4, and 5, and 12 uL of 'BS_Start_modified" into tubes 6, 7, 8, and 9.  
-2. Add 6μL of dilute ‘BS_Comp_5"to tube 4. 
-3. Add 6μL of dilute 'BS_Start_Mod1_Comp5' to tube 6. 
-4. Add 1μL TdT buffer and 1.4μL of water to each of the 4 tubes and mix thoroughly.
-5. Set one thermocycler, Thermocycler 1, to hold at 94◦C for two minutes, then lower the temperatureto 0◦C forever (decreasing at 0.5◦C per second). Place all sample tubes into Thermocycler 1 and start the protocol.
-6. Set another thermocycler, Thermocycler 2, to hold at 94◦C forever and start the protocol.
-7. Keep the tubes in the thermocycler for the remainder of the experiment.
+1. Add 4 uL of ~40 ng/uL 'BS_Start' into tubes 2, 3, and 4 and 4 uL of 'BS_Start_modified" into tubes 5, 6, and 7.
+2. Add 4μL of dilute ‘BS_Comp_5"to tube 4. 
+3. Add 4μL of dilute 'BS_Start_Mod1_Comp5' to tube 6. 
+4. Add 2 uL of water to each of the 4 tubes and mix thoroughly.
+5. Set one thermocycler, Thermocycler 1, to hold at 94◦C for two minutes, then lower the temperatureto 10◦C forever (decreasing at 0.5◦C per second). Place all sample tubes into Thermocycler 1 and start the protocol (let this run for atleast 30 minutes). 
 
 ## TdT Extension Reaction
 1. Set one thermocycler to incubate at 37C for 2 minutes, 90C for ten minutes, then hold at 4C.
-2. Pipette  uL of water, 2 uL of 10x TdT Buffer, and 2 uL 10x CoCl2 into tubes 
+2. Pipette 0.8 ul of water, 2 uL of 10x TdT Buffer, and 2 uL 10x CoCl2 into tubes 
 4. Pipette 4 uL of 10 mM 'dTTP dilute' into both tubes, and place in thermocycler. 
-5. Immediately before starting the protocol, add 1.2 uL of 20 U/uL TdT to both tubes. 
+5. Immediately before starting the protocol, add 1.2 uL of 20 U/uL TdT to both tubes (total reaction volume of 20 uL). 
 6. After thermocycler protocol is done, remove and get samples ready for gel running.
 
 ## Gel Setup 
