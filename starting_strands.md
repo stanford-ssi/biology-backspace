@@ -118,3 +118,8 @@ All addition of Exonuclease T must occur while the sample is inside thethermocyc
 ## Experimental Updates
 - First set of samples rendered unusable due to addition of ExoT prior to annealing thermocyler protocol for comp. strand binding, and tubes melting within thermocycler
 - Second set of replicates made with separate TdT extended samples (procedure basically repeated)
+
+## Results
+![Gel Image](Original_vs_Mod.tif)
+
+Gel buffer was not loaded fully to the top which created problems with voltage source when trying to run and resulted in hard-to-interpret readout. Reran samples on a different gel a week later. 
