@@ -63,7 +63,7 @@ Procedure
 =========
 
 ## TdT Extension Reaction
-1. Set one thermocycler to incubate at 37C for 10 minutes, 70C for ten minutes, then hold at 4C. This experiment is designed to have one batch of extension products for each starting strand, in order to reduce extended sample variability. 
+1. Set one thermocycler to incubate at 37C for 10 minutes, 90C for ten minutes, then hold at 4C. This experiment is designed to have one batch of extension products for each starting strand, in order to reduce extended sample variability. 
 2. Pipette 22.8 uL of water, 6 uL of 10x TdT Buffer, and 6 uL 10x CoCl2 into 2 PCR tubes. 
 3. Add 12 uL of ~40 ng/uL 'BS_Start' into PCR tube 1, and 12 uL of 'BS_Start_modified" into PCR tube 2.  
 4. Pipette 12 uL of 10 mM 'dTTP dilute' into both tubes, and place in thermocycler. 
